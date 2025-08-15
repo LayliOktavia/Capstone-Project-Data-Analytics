@@ -50,7 +50,7 @@ Dataset berasal dari **[Coffee Shop Sales - Kaggle](https://www.kaggle.com/code/
 - **Cross-Selling:** Tawarkan Packaged Chocolate di kasir untuk pembelian produk lain.
 
 ## 📊 Dashboard Preview
-📍 Dibuat menggunakan Looker Studio untuk memantau penjualan Packaged Chocolate secara real-time.
+📍 Dibuat menggunakan [Looker Studio](https://lookerstudio.google.com/s/ksv3xa-Lf78) untuk memantau penjualan Packaged Chocolate secara real-time.
 
 ## 🛠 Tools
 - Kaggle Dataset
